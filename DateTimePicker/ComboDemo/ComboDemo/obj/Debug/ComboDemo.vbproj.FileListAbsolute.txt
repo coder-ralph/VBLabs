@@ -1,0 +1,12 @@
+C:\Users\ralph\Music\Lab\ComboDemo\ComboDemo\bin\Debug\ComboDemo.exe.config
+C:\Users\ralph\Music\Lab\ComboDemo\ComboDemo\bin\Debug\ComboDemo.exe
+C:\Users\ralph\Music\Lab\ComboDemo\ComboDemo\bin\Debug\ComboDemo.pdb
+C:\Users\ralph\Music\Lab\ComboDemo\ComboDemo\bin\Debug\ComboDemo.xml
+C:\Users\ralph\Music\Lab\ComboDemo\ComboDemo\obj\Debug\ComboDemo.vbproj.AssemblyReference.cache
+C:\Users\ralph\Music\Lab\ComboDemo\ComboDemo\obj\Debug\ComboDemo.Form1.resources
+C:\Users\ralph\Music\Lab\ComboDemo\ComboDemo\obj\Debug\ComboDemo.Resources.resources
+C:\Users\ralph\Music\Lab\ComboDemo\ComboDemo\obj\Debug\ComboDemo.vbproj.GenerateResource.cache
+C:\Users\ralph\Music\Lab\ComboDemo\ComboDemo\obj\Debug\ComboDemo.vbproj.CoreCompileInputs.cache
+C:\Users\ralph\Music\Lab\ComboDemo\ComboDemo\obj\Debug\ComboDemo.exe
+C:\Users\ralph\Music\Lab\ComboDemo\ComboDemo\obj\Debug\ComboDemo.xml
+C:\Users\ralph\Music\Lab\ComboDemo\ComboDemo\obj\Debug\ComboDemo.pdb

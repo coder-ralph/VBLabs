@@ -1,0 +1,12 @@
+C:\Users\ralph\Music\Lab\SimpleControlsDemo\SimpleControlsDemo\bin\Debug\SimpleControlsDemo.exe.config
+C:\Users\ralph\Music\Lab\SimpleControlsDemo\SimpleControlsDemo\bin\Debug\SimpleControlsDemo.exe
+C:\Users\ralph\Music\Lab\SimpleControlsDemo\SimpleControlsDemo\bin\Debug\SimpleControlsDemo.pdb
+C:\Users\ralph\Music\Lab\SimpleControlsDemo\SimpleControlsDemo\bin\Debug\SimpleControlsDemo.xml
+C:\Users\ralph\Music\Lab\SimpleControlsDemo\SimpleControlsDemo\obj\Debug\SimpleControlsDemo.vbproj.AssemblyReference.cache
+C:\Users\ralph\Music\Lab\SimpleControlsDemo\SimpleControlsDemo\obj\Debug\SimpleControlsDemo.Form1.resources
+C:\Users\ralph\Music\Lab\SimpleControlsDemo\SimpleControlsDemo\obj\Debug\SimpleControlsDemo.Resources.resources
+C:\Users\ralph\Music\Lab\SimpleControlsDemo\SimpleControlsDemo\obj\Debug\SimpleControlsDemo.vbproj.GenerateResource.cache
+C:\Users\ralph\Music\Lab\SimpleControlsDemo\SimpleControlsDemo\obj\Debug\SimpleControlsDemo.vbproj.CoreCompileInputs.cache
+C:\Users\ralph\Music\Lab\SimpleControlsDemo\SimpleControlsDemo\obj\Debug\SimpleControlsDemo.exe
+C:\Users\ralph\Music\Lab\SimpleControlsDemo\SimpleControlsDemo\obj\Debug\SimpleControlsDemo.xml
+C:\Users\ralph\Music\Lab\SimpleControlsDemo\SimpleControlsDemo\obj\Debug\SimpleControlsDemo.pdb
