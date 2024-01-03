@@ -1,0 +1,13 @@
+C:\Users\ralph\Music\Activity3-9\Activity3-9\Activity3-9\bin\Debug\Activity3-9.exe.config
+C:\Users\ralph\Music\Activity3-9\Activity3-9\Activity3-9\bin\Debug\Activity3-9.exe
+C:\Users\ralph\Music\Activity3-9\Activity3-9\Activity3-9\bin\Debug\Activity3-9.pdb
+C:\Users\ralph\Music\Activity3-9\Activity3-9\Activity3-9\bin\Debug\Activity3-9.xml
+C:\Users\ralph\Music\Activity3-9\Activity3-9\Activity3-9\obj\Debug\Activity3_9.Form1.resources
+C:\Users\ralph\Music\Activity3-9\Activity3-9\Activity3-9\obj\Debug\Activity3_9.Resources.resources
+C:\Users\ralph\Music\Activity3-9\Activity3-9\Activity3-9\obj\Debug\Activity3-9.vbproj.GenerateResource.Cache
+C:\Users\ralph\Music\Activity3-9\Activity3-9\Activity3-9\obj\Debug\Activity3-9.exe
+C:\Users\ralph\Music\Activity3-9\Activity3-9\Activity3-9\obj\Debug\Activity3-9.xml
+C:\Users\ralph\Music\Activity3-9\Activity3-9\Activity3-9\obj\Debug\Activity3-9.pdb
+C:\Users\ralph\Music\Activity3-9\Activity3-9\Activity3-9\obj\Debug\Activity3_9.Form2.resources
+C:\Users\ralph\Music\Activity3-9\Activity3-9\Activity3-9\obj\Debug\Activity3_9.Form3.resources
+C:\Users\ralph\Music\Activity3-9\Activity3-9\Activity3-9\obj\Debug\Activity3_9.Form4.resources
