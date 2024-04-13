@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TriviaMaster", "TriviaMaster\TriviaMaster.vbproj", "{64677138-0BA6-4965-9132-BBAD32903532}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64677138-0BA6-4965-9132-BBAD32903532}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64677138-0BA6-4965-9132-BBAD32903532}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64677138-0BA6-4965-9132-BBAD32903532}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64677138-0BA6-4965-9132-BBAD32903532}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B72DF20-F05F-4BB5-BB74-575A28F2C0DE}
+	EndGlobalSection
+EndGlobal

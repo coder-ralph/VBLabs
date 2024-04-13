@@ -1,0 +1,12 @@
+C:\Users\ralph\Music\Andrea\DigitalClock\DigitalClock\bin\Debug\DigitalClock.exe.config
+C:\Users\ralph\Music\Andrea\DigitalClock\DigitalClock\bin\Debug\DigitalClock.exe
+C:\Users\ralph\Music\Andrea\DigitalClock\DigitalClock\bin\Debug\DigitalClock.pdb
+C:\Users\ralph\Music\Andrea\DigitalClock\DigitalClock\bin\Debug\DigitalClock.xml
+C:\Users\ralph\Music\Andrea\DigitalClock\DigitalClock\obj\Debug\DigitalClock.vbproj.AssemblyReference.cache
+C:\Users\ralph\Music\Andrea\DigitalClock\DigitalClock\obj\Debug\DigitalClock.Form1.resources
+C:\Users\ralph\Music\Andrea\DigitalClock\DigitalClock\obj\Debug\DigitalClock.Resources.resources
+C:\Users\ralph\Music\Andrea\DigitalClock\DigitalClock\obj\Debug\DigitalClock.vbproj.GenerateResource.cache
+C:\Users\ralph\Music\Andrea\DigitalClock\DigitalClock\obj\Debug\DigitalClock.vbproj.CoreCompileInputs.cache
+C:\Users\ralph\Music\Andrea\DigitalClock\DigitalClock\obj\Debug\DigitalClock.exe
+C:\Users\ralph\Music\Andrea\DigitalClock\DigitalClock\obj\Debug\DigitalClock.xml
+C:\Users\ralph\Music\Andrea\DigitalClock\DigitalClock\obj\Debug\DigitalClock.pdb

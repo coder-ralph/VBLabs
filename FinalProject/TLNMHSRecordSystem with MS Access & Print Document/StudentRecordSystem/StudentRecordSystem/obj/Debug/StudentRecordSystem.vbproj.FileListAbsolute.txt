@@ -1,0 +1,43 @@
+C:\Users\ralph\Music\TLNMHSFinal\StudentRecordSystem\StudentRecordSystem\bin\Debug\StudentRecordSystem.exe.config
+C:\Users\ralph\Music\TLNMHSFinal\StudentRecordSystem\StudentRecordSystem\obj\Debug\StudentRecordSystem.Form1.resources
+C:\Users\ralph\Music\TLNMHSFinal\StudentRecordSystem\StudentRecordSystem\obj\Debug\StudentRecordSystem.Login.resources
+C:\Users\ralph\Music\TLNMHSFinal\StudentRecordSystem\StudentRecordSystem\obj\Debug\StudentRecordSystem.Resources.resources
+C:\Users\ralph\Music\TLNMHSFinal\StudentRecordSystem\StudentRecordSystem\obj\Debug\StudentRecordSystem.vbproj.GenerateResource.Cache
+C:\Users\ralph\Music\TLNMHSFinal\StudentRecordSystem\StudentRecordSystem\bin\Debug\StudentRecordSystem.exe
+C:\Users\ralph\Music\TLNMHSFinal\StudentRecordSystem\StudentRecordSystem\bin\Debug\StudentRecordSystem.pdb
+C:\Users\ralph\Music\TLNMHSFinal\StudentRecordSystem\StudentRecordSystem\bin\Debug\StudentRecordSystem.xml
+C:\Users\ralph\Music\TLNMHSFinal\StudentRecordSystem\StudentRecordSystem\obj\Debug\StudentRecordSystem.exe
+C:\Users\ralph\Music\TLNMHSFinal\StudentRecordSystem\StudentRecordSystem\obj\Debug\StudentRecordSystem.xml
+C:\Users\ralph\Music\TLNMHSFinal\StudentRecordSystem\StudentRecordSystem\obj\Debug\StudentRecordSystem.pdb
+C:\Users\ralph\Music\TLNMHSFinal\StudentRecordSystem\StudentRecordSystem\obj\Debug\StudentRecordSystem.Form2.resources
+C:\Users\ralph\Music\TLNMHSFinal\StudentRecordSystem\StudentRecordSystem\obj\Debug\StudentRecordSystem.Form3.resources
+C:\Users\ralph\Pictures\Final Project\TLNMHSRecordSystem with Print\StudentRecordSystem\StudentRecordSystem\bin\Debug\StudentRecordSystem.exe.config
+C:\Users\ralph\Pictures\Final Project\TLNMHSRecordSystem with Print\StudentRecordSystem\StudentRecordSystem\obj\Debug\StudentRecordSystem.exe
+C:\Users\ralph\Pictures\Final Project\TLNMHSRecordSystem with Print\StudentRecordSystem\StudentRecordSystem\obj\Debug\StudentRecordSystem.xml
+C:\Users\ralph\Pictures\Final Project\TLNMHSRecordSystem with Print\StudentRecordSystem\StudentRecordSystem\obj\Debug\StudentRecordSystem.pdb
+C:\Users\ralph\Pictures\Final Project\TLNMHSRecordSystem with Print Document\StudentRecordSystem\StudentRecordSystem\bin\Debug\StudentRecordSystem.exe.config
+C:\Users\ralph\Pictures\Final Project\TLNMHSRecordSystem with Print Document\StudentRecordSystem\StudentRecordSystem\obj\Debug\StudentRecordSystem.exe
+C:\Users\ralph\Pictures\Final Project\TLNMHSRecordSystem with Print Document\StudentRecordSystem\StudentRecordSystem\obj\Debug\StudentRecordSystem.xml
+C:\Users\ralph\Pictures\Final Project\TLNMHSRecordSystem with Print Document\StudentRecordSystem\StudentRecordSystem\obj\Debug\StudentRecordSystem.pdb
+C:\Users\ralph\Pictures\Final Project\TLNMHSRecordSystem with Print Document\StudentRecordSystem\StudentRecordSystem\bin\Debug\StudentRecordSystem.exe
+C:\Users\ralph\Pictures\Final Project\TLNMHSRecordSystem with Print Document\StudentRecordSystem\StudentRecordSystem\bin\Debug\StudentRecordSystem.pdb
+C:\Users\ralph\Pictures\Final Project\TLNMHSRecordSystem with Print Document\StudentRecordSystem\StudentRecordSystem\bin\Debug\StudentRecordSystem.xml
+C:\Users\ralph\Pictures\Final Project\TLNMHSRecordSystem with Print Document\StudentRecordSystem\StudentRecordSystem\obj\Debug\StudentRecordSystem.Form1.resources
+C:\Users\ralph\Pictures\Final Project\TLNMHSRecordSystem with Print Document\StudentRecordSystem\StudentRecordSystem\obj\Debug\StudentRecordSystem.Form2.resources
+C:\Users\ralph\Pictures\Final Project\TLNMHSRecordSystem with Print Document\StudentRecordSystem\StudentRecordSystem\obj\Debug\StudentRecordSystem.Form3.resources
+C:\Users\ralph\Pictures\Final Project\TLNMHSRecordSystem with Print Document\StudentRecordSystem\StudentRecordSystem\obj\Debug\StudentRecordSystem.Login.resources
+C:\Users\ralph\Pictures\Final Project\TLNMHSRecordSystem with Print Document\StudentRecordSystem\StudentRecordSystem\obj\Debug\StudentRecordSystem.Resources.resources
+C:\Users\ralph\Pictures\Final Project\TLNMHSRecordSystem with Print Document\StudentRecordSystem\StudentRecordSystem\obj\Debug\StudentRecordSystem.vbproj.GenerateResource.Cache
+C:\Users\ralph\Pictures\Final Project\TLNMHSRecordSystem with MS Access & Print Document\StudentRecordSystem\StudentRecordSystem\bin\Debug\StudentRecordSystem.exe.config
+C:\Users\ralph\Pictures\Final Project\TLNMHSRecordSystem with MS Access & Print Document\StudentRecordSystem\StudentRecordSystem\obj\Debug\StudentRecordSystem.exe
+C:\Users\ralph\Pictures\Final Project\TLNMHSRecordSystem with MS Access & Print Document\StudentRecordSystem\StudentRecordSystem\obj\Debug\StudentRecordSystem.xml
+C:\Users\ralph\Pictures\Final Project\TLNMHSRecordSystem with MS Access & Print Document\StudentRecordSystem\StudentRecordSystem\obj\Debug\StudentRecordSystem.pdb
+C:\Users\ralph\Pictures\Final Project\TLNMHSRecordSystem with MS Access & Print Document\StudentRecordSystem\StudentRecordSystem\bin\Debug\StudentRecordSystem.exe
+C:\Users\ralph\Pictures\Final Project\TLNMHSRecordSystem with MS Access & Print Document\StudentRecordSystem\StudentRecordSystem\bin\Debug\StudentRecordSystem.pdb
+C:\Users\ralph\Pictures\Final Project\TLNMHSRecordSystem with MS Access & Print Document\StudentRecordSystem\StudentRecordSystem\bin\Debug\StudentRecordSystem.xml
+C:\Users\ralph\Pictures\Final Project\TLNMHSRecordSystem with MS Access & Print Document\StudentRecordSystem\StudentRecordSystem\obj\Debug\StudentRecordSystem.Form1.resources
+C:\Users\ralph\Pictures\Final Project\TLNMHSRecordSystem with MS Access & Print Document\StudentRecordSystem\StudentRecordSystem\obj\Debug\StudentRecordSystem.Form2.resources
+C:\Users\ralph\Pictures\Final Project\TLNMHSRecordSystem with MS Access & Print Document\StudentRecordSystem\StudentRecordSystem\obj\Debug\StudentRecordSystem.Form3.resources
+C:\Users\ralph\Pictures\Final Project\TLNMHSRecordSystem with MS Access & Print Document\StudentRecordSystem\StudentRecordSystem\obj\Debug\StudentRecordSystem.Login.resources
+C:\Users\ralph\Pictures\Final Project\TLNMHSRecordSystem with MS Access & Print Document\StudentRecordSystem\StudentRecordSystem\obj\Debug\StudentRecordSystem.Resources.resources
+C:\Users\ralph\Pictures\Final Project\TLNMHSRecordSystem with MS Access & Print Document\StudentRecordSystem\StudentRecordSystem\obj\Debug\StudentRecordSystem.vbproj.GenerateResource.Cache
